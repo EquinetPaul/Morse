@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Features
+- Create an wav audio file from an input string
 - Define the input string
 - Define the input frequency (400 by default)
 
