@@ -19,9 +19,9 @@ Otherwise you can use the [Releases versions Here](https://github.com/EquinetPau
 Must: -text
 Could: -freq
 - -text:
--   define the text you want to convert in morse and have its audio file
+  define the text you want to convert in morse and have its audio file
 - -freq:
--   define the frequency at which you want to create the audio file (300 up to 5000 it's fine!)Hz
+  define the frequency at which you want to create the audio file (300 up to 5000 it's fine!)Hz
 ## Exemple
 ### In your terminal
 ```sh
