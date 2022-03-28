@@ -26,7 +26,7 @@ Could: -freq
 - -text:
   define the text you want to convert in morse and have its audio file
 - -freq:
-  define the frequency at which you want to create the audio file (300 up to 5000 it's fine!)Hz
+  define the frequency at which you want to create the audio file (300 up to 5000 it's fine!)
 ## Exemple
 ### In your terminal
 ```sh
@@ -40,3 +40,7 @@ vlc result.wav
 ## To Do
 - Lowercase the text argument
 - Interrupt if unknown character
+- Audio to text? 
+
+
+* frequency in Hz
