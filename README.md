@@ -12,7 +12,7 @@ I use [this beautiful library](https://github.com/nlohmann/json) that makes poss
 
 ## Installation
 Download this git repository and open it with your favorite IDE.
-Otherwise you can use the Releases versions :)
+Otherwise you can use the [Releases versions Here](https://github.com/EquinetPaul/morse/releases/tag/ubuntuLinuxRealease) :)
 
 ## How to use
 ### In your terminal
@@ -24,3 +24,6 @@ Open the audio file (with your favorite song software, here VLC)
 ```sh
 vlc result.wav
 ```
+## To Do
+- Lowercase the text argument
+- Interrupt if unknown character
