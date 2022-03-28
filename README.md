@@ -3,7 +3,13 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+## What is Morse?
+BIP BIP BIP BIP / BIP / BIIIP BIP BIIIP BIIIP
+YOU GOT IT? 
+.... . -.--
+
 ## Features
+- Convert a sentence to a Morse Audio File
 - Create an wav audio file from an input string
 - Define the input string
 - Define the input frequency (400Hz by default)
