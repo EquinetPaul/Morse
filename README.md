@@ -4,11 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## What is Morse?
-BIP BIP BIP BIP / BIP / BIIIP BIP BIIIP BIIIP
-
-YOU GOT IT? 
-
-.... . -.--
+[-- --- .-. ... . / .. ... / -- --- .-. ... .](https://fr.wikipedia.org/wiki/Code_Morse_international)
 
 ## Features
 - Convert a sentence to a Morse Audio File
