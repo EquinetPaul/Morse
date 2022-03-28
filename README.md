@@ -6,7 +6,7 @@
 ## Features
 - Create an wav audio file from an input string
 - Define the input string
-- Define the input frequency (400 by default)
+- Define the input frequency (400Hz by default)
 
 ## Used Library
 I use [this beautiful library](https://github.com/nlohmann/json) that makes possible to use JSON file. 
