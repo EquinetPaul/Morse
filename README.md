@@ -15,9 +15,17 @@ Download this git repository and open it with your favorite IDE.
 Otherwise you can use the [Releases versions Here](https://github.com/EquinetPaul/morse/releases/tag/ubuntuLinuxRealease) :)
 
 ## How to use
+-There are two args
+Must: -text
+Could: -freq
+- -text:
+-   define the text you want to convert in morse and have its audio file
+- -freq:
+-   define the frequency at which you want to create the audio file (300 up to 5000 it's fine!)Hz
+## Exemple
 ### In your terminal
 ```sh
-./morse --text "test" -freq 600
+./morse -text "test" -freq 600
 ```
 ### Result
 Open the audio file (with your favorite song software, here VLC)
