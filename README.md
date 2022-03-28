@@ -43,4 +43,4 @@ vlc result.wav
 - Audio to text? 
 
 
-* frequency in Hz
+*frequency in Hz
