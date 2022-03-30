@@ -1,5 +1,6 @@
 # Morse Project
 ## _Simple Morse Audio File Maker_
+### Create Audio from Text in Morse!
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
