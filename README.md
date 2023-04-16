@@ -2,8 +2,6 @@
 ## _Simple Morse Audio File Maker_
 ### Create Audio from Text in Morse!
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ## What is Morse?
 [-- --- .-. ... . / .. ... / -- --- .-. ... .](https://fr.wikipedia.org/wiki/Code_Morse_international)
 
